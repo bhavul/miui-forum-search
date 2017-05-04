@@ -1,0 +1,13 @@
+body{
+	background:rgba(255, 235, 59, 0.27);
+}
+
+td{
+	background:#DCEADD;
+}
+
+td#info{
+	background:rgba(3, 169, 244, 0.18);
+}
+
+
